@@ -72,4 +72,4 @@ This repository contains all artifacts produced during the conception and develo
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
