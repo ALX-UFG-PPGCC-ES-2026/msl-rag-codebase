@@ -11,4 +11,4 @@
 
 - Filtre pelo período de publicação: 01/2020 - 04/2026.
 
-- Exporte os resultados em BibTeX (.bib).
+- Exporte os resultados em formato BibTeX (.bib).

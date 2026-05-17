@@ -14,4 +14,4 @@ AND ( LIMIT-TO ( SRCTYPE , "p" ) OR LIMIT-TO ( SRCTYPE , "j" ) )
 AND PUBYEAR > 2019 AND PUBYEAR < 2027
 ```
 
-- Exporte os resultados em CSV ou BibTeX.
+- Exporte os resultados em formato BibTeX (.bib).

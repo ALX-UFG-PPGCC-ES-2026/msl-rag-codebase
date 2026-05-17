@@ -15,4 +15,4 @@
 
 - Filtre por tipo: conference papers + journal articles + early access articles (excluir patentes, livros, etc.).
 
-- Exporte os resultados em CSV ou BibTeX.
+- Exporte os resultados em formato BibTeX (.bib).
