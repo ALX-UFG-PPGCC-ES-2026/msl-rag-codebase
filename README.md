@@ -4,12 +4,10 @@
 
 This repository contains all artifacts produced during the conception and development of a systematic mapping study on Retrieval-Augmented Generation (RAG) applied to software codebases. The final output of this research is a scientific article submitted as a requirement for the **Graduate Program in Computer Science (PPGCC)** at the **Universidade Federal de Goiás (UFG)**.
 
-## Authors
+## Author
 
-| Name | E-mail |
-|------|---------|
-| Alex Ferreira de Almeida | almeida_alex@discente.ufg.br |
-| Paulo Augusto de Oliveira Gonçalves | goncalves2@discente.ufg.br |
+Alex Ferreira de Almeida
+almeida_alex@discente.ufg.br
 
 **Advisor:** Prof. Dr. Valdemar Vicente Graciano Neto
 
