@@ -4,15 +4,17 @@
 
 - Cole as strings nos respectivos campos de busca:
 ```
-"Retrieval-Augmented Generation" OR "RAG" AND
-"source code" OR "codebase" OR "code repository" AND
-"LLM" OR "Large Language Model" OR "GenAI" OR "Generative AI"
+("Document Title":"source code" OR "Document Title":"source codes" OR "Document Title":"codebase" OR "Document Title":"code repository" OR "Document Title":"code search" OR
+ "Abstract":"source code" OR "Abstract":"source codes" OR "Abstract":"codebase" OR "Abstract":"code repository" OR "Abstract":"code search" OR
+ "Author Keywords":"source code" OR "Author Keywords":"source codes" OR "Author Keywords":"codebase" OR "Author Keywords":"code repository" OR "Author Keywords":"code search")
+AND
+("Document Title":"Retrieval-Augmented Generation" OR "Document Title":"Retrieval Augmented Generation" OR "Document Title":"RAG" OR
+ "Abstract":"Retrieval-Augmented Generation" OR "Abstract":"Retrieval Augmented Generation" OR "Abstract":"RAG" OR
+ "Author Keywords":"Retrieval-Augmented Generation" OR "Author Keywords":"Retrieval Augmented Generation" OR "Author Keywords":"RAG")
+AND
+("Document Title":"LLM" OR "Document Title":"Large Language Model" OR "Document Title":"GenAI" OR "Document Title":"Generative AI" OR
+ "Abstract":"LLM" OR "Abstract":"Large Language Model" OR "Abstract":"GenAI" OR "Abstract":"Generative AI" OR
+ "Author Keywords":"LLM" OR "Author Keywords":"Large Language Model" OR "Author Keywords":"GenAI" OR "Author Keywords":"Generative AI")
 ```
-
-- Configure para buscar em "All Metadata".
-
-- Filtre pelo ano de publicação: 2020-2026.
-
-- Filtre por tipo: conference papers + journal articles + early access articles (excluir patentes, livros, etc.).
 
 - Exporte os resultados em formato BibTeX (.bib).

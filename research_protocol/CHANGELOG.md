@@ -1,4 +1,9 @@
-# V5 - 24/05/26
+# V5.0 - 24/05/26
+- Atualizada string de busca canônica. 
+- Adicionada string adaptada para sintaxe de busca específica por base.
+- Atualizado CE5 para maior clareza.
+
+# V4.3 - 24/05/26
 - Revisada Introdução. 
 - Ajustada autoria (desistência do colega de trabalho).
 
