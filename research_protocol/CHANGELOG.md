@@ -1,3 +1,9 @@
+# V5.1 - 24/05/26
+- Ajustado CE7 para não especificar o mês final.
+  - Definido seção 7 para documentar a data exata da execução de cada pesquisa.
+- Divido C1 em C1 e C2 para aumentar granularidade no rastreio das exclusões.
+- Adicionadas variáveis provisórias na seção 7.1 (X, Y, Z).
+
 # V5.0 - 24/05/26
 - Atualizada string de busca canônica. 
 - Adicionada string adaptada para sintaxe de busca específica por base.
