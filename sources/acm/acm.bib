@@ -17,6 +17,24 @@ numpages = {26},
 keywords = {text-to-sql, semantic alignment, retrieval-augmented generation, large language model}
 }
 
+@inproceedings{10.1145/3774904.3792358,
+author = {Ren, Jing and Li, Bowen and Xu, Ziqi and Zhang, Xikun and Fayek, Haytham and Li, Xiaodong},
+title = {When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation},
+year = {2026},
+isbn = {9798400723070},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3774904.3792358},
+doi = {10.1145/3774904.3792358},
+abstract = {Knowledge Graph Retrieval-Augmented Generation (KG-RAG) extends the RAG paradigm by incorporating structured knowledge from knowledge graphs, enabling Large Language Models (LLMs) to perform more precise and explainable reasoning. While KG-RAG improves factual accuracy in complex tasks, existing KG-RAG models are often severely overconfident, producing high-confidence predictions even when retrieved sub-graphs are incomplete or unreliable, which raises concerns for deployment in high-stakes domains. To address this issue, we propose Ca2KG, a Causality-aware Calibration framework for KG-RAG. Ca2KG integrates counterfactual prompting, which exposes retrieval-dependent uncertainties in knowledge quality and reasoning reliability, with a panel-based re-scoring mechanism that stabilises predictions across interventions. Extensive experiments on two complex QA datasets demonstrate that Ca2KG consistently improves calibration while maintaining or even enhancing predictive accuracy. The source code can be found at~ https://aisuko.github.io/ca2kg/.},
+booktitle = {Proceedings of the ACM Web Conference 2026},
+pages = {3859–3869},
+numpages = {11},
+keywords = {large language model, knowledge graph, retrieval-augmented generation, calibration},
+location = {United Arab Emirates},
+series = {WWW '26}
+}
+
 @article{10.1145/3701228,
 author = {Lyu, Yuanjie and Li, Zhiyu and Niu, Simin and Xiong, Feiyu and Tang, Bo and Wang, Wenjin and Wu, Hao and Liu, Huanyong and Xu, Tong and Chen, Enhong},
 title = {CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models},
@@ -72,6 +90,24 @@ location = {San Francisco, CA, USA},
 series = {DAC '24}
 }
 
+@inproceedings{10.1145/3774904.3792075,
+author = {Zheng, Leqi and Zhang, Jiajun and Chen, Canzhi and Wang, Chaokun and Li, Hongwei and Li, Yuying and Mao, Yaoxin and Yan, Shannan and Song, Zixin and Feng, Zhiyuan and Kang, Zhaolu and Chen, Zirong and Zhang, Hang and Liu, Qiang and Wang, Liang and Liu, Ziyang},
+title = {What Should I Cite? A RAG Benchmark for Academic Citation Prediction},
+year = {2026},
+isbn = {9798400723070},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3774904.3792075},
+doi = {10.1145/3774904.3792075},
+abstract = {With the rapid growth of Web-based academic publications, more and more papers are being published annually, making it increasingly difficult to find relevant prior work. Citation prediction aims to automatically suggest appropriate references, helping scholars navigate the expanding scientific literature. Here we present CiteRAG, the first comprehensive retrieval-augmented generation (RAG)-integrated benchmark for evaluating large language models on academic citation prediction, featuring a multi-level retrieval strategy, specialized retrievers, and generators. Our benchmark makes four core contributions: (1) We establish two instances of the citation prediction task with different granularity. Task 1 focuses on coarse-grained list-specific citation prediction, while Task 2 targets fine-grained position-specific citation prediction. To enhance these two tasks, we build a dataset containing 7,267 instances for Task 1 and 8,541 instances for Task 2, enabling comprehensive evaluation of both retrieval and generation. (2) We construct a three-level large-scale corpus with 554k papers spanning many major subfields, using an incremental pipeline. (3) We propose a multi-level hybrid RAG approach to citation prediction, fine-tuning embedding models with contrastive learning to capture complex citation relationships, paired with specialized generation models. (4) We conduct extensive experiments across state-of-the-art language models, including closed-source APIs, open-source models, and our fine-tuned generators, demonstrating the effectiveness of our framework. Our open-source toolkit enables reproducible evaluation and focuses on academic literature, providing the first comprehensive evaluation framework for citation prediction and serving as a methodological template for other scientific domains. Our source code and data are released at https://github.com/LQgdwind/CiteRAG.},
+booktitle = {Proceedings of the ACM Web Conference 2026},
+pages = {1852–1863},
+numpages = {12},
+keywords = {large language model, domain specific evaluation, retrieval augmented generation},
+location = {United Arab Emirates},
+series = {WWW '26}
+}
+
 @inproceedings{10.1145/3793638.3793648,
 author = {Xie, Jiazhu and Li, Bowen and Fu, Heyu and Gao, Chong and Xu, Ziqi and Han, Fengling},
 title = {Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform},
@@ -109,23 +145,22 @@ location = {Padua, Italy},
 series = {ICTIR '25}
 }
 
-@inproceedings{10.1145/3750720.3757281,
-author = {Smith, Barry and Zhang, Junchao and Zhang, Hong and McInnes, Lois Curfman and Keceli, Murat and Vasan, Archit and Balay, Satish and Isaac, Toby and Chen, Le and Vishwanath, Venkatram},
-title = {AI Assistants to Enhance and Exploit the PETSc Knowledge Base},
+@inproceedings{10.1145/3746027.3755723,
+author = {Zhu, Fengbin and Li, Junfeng and Pan, Liangming and Wang, Wenjie and Feng, Fuli and Wang, Chao and Luan, Huanbo and Chua, Tat-Seng},
+title = {Towards Temporal-Aware Multi-Modal Retrieval Augemented Generation in Finance},
 year = {2025},
-isbn = {9798400721090},
+isbn = {9798400720352},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3750720.3757281},
-doi = {10.1145/3750720.3757281},
-abstract = {Generative AI, especially through large language models (LLMs), is transforming how technical knowledge can be accessed, reused, and extended. PETSc, a widely used numerical library for high-performance scientific computing, has accumulated a rich but fragmented knowledge base over its three decades of development, spanning source code, documentation, mailing lists, GitLab issues, Discord conversations, technical papers, and more. Much of this knowledge remains informal and inaccessible to users and new developers. To activate and utilize this knowledge base more effectively, the PETSc team has begun building an LLM-powered system that combines PETSc content with custom LLM tools—including retrieval-augmented generation (RAG), reranking algorithms, and chatbots—to assist users, support developers, and propose updates to formal documentation. This paper presents initial experiences designing and evaluating these tools, focusing on system architecture, using RAG and reranking for PETSc-specific information, evaluation methodologies for various LLMs and embedding models, and user interface design. Leveraging the Argonne Leadership Computing Facility resources, we analyze how LLM responses can enhance the development and use of numerical software, with an initial focus on scalable Krylov solvers. Our goal is to establish an extensible framework for knowledge-centered AI in scientific software, enabling scalable support, enriched documentation, and enhanced workflows for research and development. We conclude by outlining directions for expanding this system into a robust, evolving platform that advances software ecosystems to accelerate scientific discovery.},
-booktitle = {Workshop Proceedings of the 54th International Conference on Parallel Processing},
-pages = {9–17},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3746027.3755723},
+doi = {10.1145/3746027.3755723},
+abstract = {Finance decision-making often relies on in-depth data analysis across various data sources, including financial tables, news articles, stock prices, etc. In this work, we introduce FINTMMBench, the first comprehensive benchmark for evaluating temporal-aware multi-modal Retrieval-Augmented Generation (RAG) systems in finance. Built from heterologous data of NASDAQ 100 companies, FINTMMBench offers three significant advantages. 1) Multi-modal Corpus: It encompasses a hybrid of financial tables, news articles, daily stock prices, and visual technical charts as the corpus. 2) Temporal-aware Questions: Each question requires the retrieval and interpretation of its relevant data over a specific time period, including daily, weekly, monthly, quarterly, and annual periods. 3) Diverse Financial Analysis Tasks: The questions involve 10 different financial analysis tasks designed by domain experts, including information extraction, trend analysis, sentiment analysis and event detection, etc. We further propose a novel TMMHybridRAG method, which first leverages a multi-modal LLM to convert data from other modalities (e.g., tabular, visual and time-series data) into textual format and then incorporates temporal information in each node when constructing graphs and dense indexes. Its effectiveness has been validated in extensive experiments, but notable gaps remain, highlighting the challenges presented by our FINTMMBench. The benchmark and source code will be made publicly available.},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {6289–6297},
 numpages = {9},
-keywords = {PETSc, AI, LLM, RAG, Knowledge base},
-location = {
-},
-series = {ICPP Workshops '25}
+keywords = {multi-modal llm, multi-modal retrieval, retrieval-augmented generation, temporal-aware retrieval},
+location = {Dublin, Ireland},
+series = {MM '25}
 }
 
 @inproceedings{10.1145/3722570.3726897,
@@ -144,6 +179,25 @@ numpages = {4},
 keywords = {Human-centered Computing, Large Language Model, Misinformation},
 location = {Irvine, CA, USA},
 series = {HumanSys '25}
+}
+
+@inproceedings{10.1145/3750720.3757281,
+author = {Smith, Barry and Zhang, Junchao and Zhang, Hong and McInnes, Lois Curfman and Keceli, Murat and Vasan, Archit and Balay, Satish and Isaac, Toby and Chen, Le and Vishwanath, Venkatram},
+title = {AI Assistants to Enhance and Exploit the PETSc Knowledge Base},
+year = {2025},
+isbn = {9798400721090},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3750720.3757281},
+doi = {10.1145/3750720.3757281},
+abstract = {Generative AI, especially through large language models (LLMs), is transforming how technical knowledge can be accessed, reused, and extended. PETSc, a widely used numerical library for high-performance scientific computing, has accumulated a rich but fragmented knowledge base over its three decades of development, spanning source code, documentation, mailing lists, GitLab issues, Discord conversations, technical papers, and more. Much of this knowledge remains informal and inaccessible to users and new developers. To activate and utilize this knowledge base more effectively, the PETSc team has begun building an LLM-powered system that combines PETSc content with custom LLM tools—including retrieval-augmented generation (RAG), reranking algorithms, and chatbots—to assist users, support developers, and propose updates to formal documentation. This paper presents initial experiences designing and evaluating these tools, focusing on system architecture, using RAG and reranking for PETSc-specific information, evaluation methodologies for various LLMs and embedding models, and user interface design. Leveraging the Argonne Leadership Computing Facility resources, we analyze how LLM responses can enhance the development and use of numerical software, with an initial focus on scalable Krylov solvers. Our goal is to establish an extensible framework for knowledge-centered AI in scientific software, enabling scalable support, enriched documentation, and enhanced workflows for research and development. We conclude by outlining directions for expanding this system into a robust, evolving platform that advances software ecosystems to accelerate scientific discovery.},
+booktitle = {Workshop Proceedings of the 54th International Conference on Parallel Processing},
+pages = {9–17},
+numpages = {9},
+keywords = {PETSc, AI, LLM, RAG, Knowledge base},
+location = {
+},
+series = {ICPP Workshops '25}
 }
 
 @article{10.1145/3733237,
@@ -166,40 +220,74 @@ numpages = {28},
 keywords = {Large language model, hardware description language, bug identification, bug fixing}
 }
 
-@inproceedings{10.1145/3746027.3755723,
-author = {Zhu, Fengbin and Li, Junfeng and Pan, Liangming and Wang, Wenjie and Feng, Fuli and Wang, Chao and Luan, Huanbo and Chua, Tat-Seng},
-title = {Towards Temporal-Aware Multi-Modal Retrieval Augemented Generation in Finance},
+@article{10.1145/3785364,
+author = {Wei, Zhiyuan and Sun, Jing and Hou, Zhe and Zhang, Zijian and Zhao, Zixiao and Li, Chunmiao and Wan, Mingchao and Dong, Jin},
+title = {SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis},
 year = {2025},
-isbn = {9798400720352},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3746027.3755723},
-doi = {10.1145/3746027.3755723},
-abstract = {Finance decision-making often relies on in-depth data analysis across various data sources, including financial tables, news articles, stock prices, etc. In this work, we introduce FINTMMBench, the first comprehensive benchmark for evaluating temporal-aware multi-modal Retrieval-Augmented Generation (RAG) systems in finance. Built from heterologous data of NASDAQ 100 companies, FINTMMBench offers three significant advantages. 1) Multi-modal Corpus: It encompasses a hybrid of financial tables, news articles, daily stock prices, and visual technical charts as the corpus. 2) Temporal-aware Questions: Each question requires the retrieval and interpretation of its relevant data over a specific time period, including daily, weekly, monthly, quarterly, and annual periods. 3) Diverse Financial Analysis Tasks: The questions involve 10 different financial analysis tasks designed by domain experts, including information extraction, trend analysis, sentiment analysis and event detection, etc. We further propose a novel TMMHybridRAG method, which first leverages a multi-modal LLM to convert data from other modalities (e.g., tabular, visual and time-series data) into textual format and then incorporates temporal information in each node when constructing graphs and dense indexes. Its effectiveness has been validated in extensive experiments, but notable gaps remain, highlighting the challenges presented by our FINTMMBench. The benchmark and source code will be made publicly available.},
-booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
-pages = {6289–6297},
-numpages = {9},
-keywords = {multi-modal llm, multi-modal retrieval, retrieval-augmented generation, temporal-aware retrieval},
-location = {Dublin, Ireland},
-series = {MM '25}
+issn = {1049-331X},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3785364},
+doi = {10.1145/3785364},
+abstract = {Large Language Models (LLMs) have demonstrated significant potential in smart contract auditing. However, they are still susceptible to hallucinations and limited context-aware reasoning. In this paper, we propose SmartAuditFlow, a dynamic Plan-Execute framework that customizes audit strategies based on the unique characteristics of each smart contract. Unlike static, rule-based workflows, our approach iteratively generates and refines audit plans in response to intermediate outputs and newly detected vulnerabilities. To improve reliability, the framework incorporates structured reasoning, prompt optimization, and external tools such as static analyzers and Retrieval-Augmented Generation (RAG). This multi-layered design reduces false positives and enhances the accuracy of vulnerability detection. Experimental results show that SmartAuditFlow achieves 100\% accuracy on common vulnerability benchmarks and successfully identifies 13 additional CVEs missed by existing methods. These findings underscore the framework's adaptability, precision, and practical utility as a robust solution for automated smart contract security auditing. The source code is available at: .},
+note = {Just Accepted},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = dec,
+keywords = {smart contract, LLM, code auditing, RAG, prompt optimization}
 }
 
-@inproceedings{10.1145/3779212.3790200,
-author = {Yi, Jinjun and Zhao, Zhixin and Hu, Yitao and Yan, Ke and Sun, Weiwei and Wang, Hao and Zhao, Laiping and Zhang, Yuhao and Li, Wenxin and Li, Keqiu},
-title = {PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel},
-year = {2026},
-isbn = {9798400723599},
+@inproceedings{10.1145/3737900.3770171,
+author = {Mamaghani, Ali and Zheng, Qingyuan and Ghosh, Ushasi and Rajagopalan, Vicram and Shakkottai, Srinivas and Bharadia, Dinesh},
+title = {Log Pruning for Efficient Q&amp;A in 5G Networks},
+year = {2025},
+isbn = {9798400719776},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3779212.3790200},
-doi = {10.1145/3779212.3790200},
-abstract = {LLM serving is increasingly dominated by decode attention, which is a memory-bound operation due to massive KV cache loading from global memory. Meanwhile, real-world workloads exhibit substantial, hierarchical shared prefixes across requests (e.g., system prompts, tools/templates, RAG). Existing attention implementations fail to fully exploit prefix sharing: one-query-per-CTA execution repeatedly loads shared prefix KV cache, while one-size-fits-all tiling leaves on-chip resources idle and exacerbates bubbles for uneven KV lengths. These choices amplify memory bandwidth pressure and stall memory-bound decode attention. This paper introduces PAT, a prefix-aware attention kernel implementation for LLM decoding that organizes execution with a pack-forward-merge paradigm. PAT packs queries by shared prefix to reduce repeated memory accesses, runs a customized multi-tile kernel to achieve high resource efficiency. It further applies practical multi-stream forwarding and KV splitting to reduce resource bubbles. The final merge performs online softmax with negligible overhead. We implement PAT as an off-the-shelf plugin for vLLM. Evaluation on both real-world and synthetic workloads shows that PAT reduces attention latency by 53.5\% on average and TPOT by 17.0-93.1\% under the same configurations against state-of-the-art attention kernels. PAT's source code is publicly available at https://github.com/flashserve/PAT.},
-booktitle = {Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
-pages = {1396–1412},
-numpages = {17},
-keywords = {large language models, llm inference, prefix aware attention, gpu kernel scheduling},
-location = {USA},
-series = {ASPLOS '26}
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3737900.3770171},
+doi = {10.1145/3737900.3770171},
+abstract = {Large Language Models (LLMs) excel across many tasks but struggle in specialized domains like system logs, often leading to inaccuracies. Retrieval-Augmented Generation (RAG) mitigates this by grounding responses in external knowledge, yet conventional RAG faces scalability issues with massive structured datasets due to the high computational cost of embeddings and vector operations. We introduce a novel RAG architecture tailored for large-scale structured data. By combining intelligent context pruning with signal processing techniques that exploit inherent log structures, our design enables rapid, efficient retrieval with reduced computational overhead while maintaining accuracy. We validate this approach on a real-world, high-throughput 5G codebase generating millions of log entries per minute, alongside a comprehensive Q&amp;A dataset on these logs. Results show substantial gains in both speed and accuracy over traditional RAG, making this solution well-suited for real-time analytics in large-scale operational environments.},
+booktitle = {Proceedings of the 2nd ACM Workshop on Open and AI RAN},
+pages = {36–42},
+numpages = {7},
+keywords = {5G, Log Processing, LLM, RAG, Pruning},
+location = {
+},
+series = {OpenRan '25}
+}
+
+@inproceedings{10.1145/3803633.3803666,
+author = {Wang, Yuanchao and Tian, Ye and Wei, Hongmei and Wang, Fei},
+title = {Large Language Models for Binary Decompilation: Paradigms, Evaluation, and Challenges},
+year = {2026},
+isbn = {9798400721953},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3803633.3803666},
+doi = {10.1145/3803633.3803666},
+abstract = {Binary decompilation seeks to bridge the semantic gap between low-level assembly language and high-level source code, playing a crucial role in software security and intellectual property protection. Conventional decompilers predominantly depend on static-analysis rules and handcrafted heuristics, which often struggle under aggressive compiler optimizations and code obfuscation, leading to poorly structured pseudocode with low readability. Recently, the emergence of large language models has revolutionized research on binary decompilation. This paper presents a systematic review of LLM-based techniques in this domain. We first examine the technical evolution from early neural machine translation approaches to large-scale pretrained models. Subsequently, we propose a novel taxonomy that categorizes existing work into three dominant paradigms: end-to-end generation, refinement-based enhancement, and hybrid verification, and we analyze their core mechanisms, strengths, and limitations. Additionally, we summarize notable benchmarks and evaluation methods, highlighting a persistent gap in the assessment of executability. Finally, we address critical challenges, including data contamination, adversarial obfuscation, and the verification of semantic equivalence, while outlining future directions such as retrieval-augmented generation and human-in-the-loop decompilation systems.},
+booktitle = {Proceedings of the 2026 6th International Conference on Computer Network Security and Software Engineering},
+pages = {212–218},
+numpages = {7},
+keywords = {Large Language Models, Binary Decompilation, Reverse Engineering, Software Security},
+location = {
+},
+series = {CNSSE '26}
+}
+
+@article{10.1145/3796512,
+author = {Shao, Miaomiao and Ding, Yuxin and Gao, Cuiyun and Wang, Junru and Zhu, Guoqing},
+title = {Fix Pattern-Aware Vulnerability Patch Generation via In-Context Learning},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3796512},
+doi = {10.1145/3796512},
+abstract = {With the rapid advancement of deep learning technologies, numerous large language models (LLMs) have been developed, achieving remarkable performance across various tasks. Nevertheless, in the field of vulnerability patch generation, previous studies still face notable limitations: (1) Insufficient context. LLM-based approaches often rely on a single vulnerable function as prompt input for generating patches, which prevents the model from utilizing adequate contextual information and limits its ability to produce accurate patches. (2) Difficulties in extracting effective fix patterns. The substantial semantic differences between various vulnerabilities result in a wide range of fix patterns. Consequently, automatically extracting effective fix patterns tailored to specific vulnerabilities becomes a significant challenge.To address this, we propose PailGen, a novel fix Pattern-aware, in-context learning-incorporated vulnerability patch Generation approach. PailGen comprises three main modules: hybrid patch retrieval module, fix pattern mining module and in-context learning-incorporated patch generation module. (1) Hybrid patch retrieval module, aims at retrieving the top- (k)  relevant vulnerability-fix pairs from the existing codebase by combining BM25 and Dense Passage Retriever (DPR) to construct a hybrid patch retriever. (2) Fix pattern mining module, aims at extracting effective fix patterns from the relevant vulnerability-fix pairs by leveraging an automatic fix pattern mining strategy based on Abstract Syntax Tree (AST). Fix patterns are designed to analyze code changes at different levels (e.g., expression level and statement level). (3) In-context learning-incorporated patch generation module, aims at providing comprehensive contextual information for LLMs by integrating the vulnerable code, its AST, the relevant patches and the extracted fix patterns into the prompt input. Overall, PailGen delivers better demonstrations for in-context learning and provides more comprehensive semantic guidance for patch generation, enabling LLMs to effectively address vulnerabilities. We evaluate PailGen on two real-world C/C++ vulnerability datasets. The experimental results demonstrate that PailGen achieves the best performance, outperforming all baseline approaches.},
+note = {Just Accepted},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = feb,
+keywords = {Vulnerability patch generation, Retrieval-augmented generation, Fix pattern, Large language models, In-context learning}
 }
 
 @inproceedings{10.1145/3796563.3796599,
@@ -219,5 +307,23 @@ keywords = {LLM; Software Engineering; Software Testing; Software Requirement.},
 location = {
 },
 series = {ISEC '26}
+}
+
+@inproceedings{10.1145/3779212.3790200,
+author = {Yi, Jinjun and Zhao, Zhixin and Hu, Yitao and Yan, Ke and Sun, Weiwei and Wang, Hao and Zhao, Laiping and Zhang, Yuhao and Li, Wenxin and Li, Keqiu},
+title = {PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel},
+year = {2026},
+isbn = {9798400723599},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ez49.periodicos.capes.gov.br/10.1145/3779212.3790200},
+doi = {10.1145/3779212.3790200},
+abstract = {LLM serving is increasingly dominated by decode attention, which is a memory-bound operation due to massive KV cache loading from global memory. Meanwhile, real-world workloads exhibit substantial, hierarchical shared prefixes across requests (e.g., system prompts, tools/templates, RAG). Existing attention implementations fail to fully exploit prefix sharing: one-query-per-CTA execution repeatedly loads shared prefix KV cache, while one-size-fits-all tiling leaves on-chip resources idle and exacerbates bubbles for uneven KV lengths. These choices amplify memory bandwidth pressure and stall memory-bound decode attention. This paper introduces PAT, a prefix-aware attention kernel implementation for LLM decoding that organizes execution with a pack-forward-merge paradigm. PAT packs queries by shared prefix to reduce repeated memory accesses, runs a customized multi-tile kernel to achieve high resource efficiency. It further applies practical multi-stream forwarding and KV splitting to reduce resource bubbles. The final merge performs online softmax with negligible overhead. We implement PAT as an off-the-shelf plugin for vLLM. Evaluation on both real-world and synthetic workloads shows that PAT reduces attention latency by 53.5\% on average and TPOT by 17.0-93.1\% under the same configurations against state-of-the-art attention kernels. PAT's source code is publicly available at https://github.com/flashserve/PAT.},
+booktitle = {Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
+pages = {1396–1412},
+numpages = {17},
+keywords = {large language models, llm inference, prefix aware attention, gpu kernel scheduling},
+location = {USA},
+series = {ASPLOS '26}
 }
 

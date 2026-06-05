@@ -1,3 +1,8 @@
+# V7.0 - 04/06/26
+- Atualizados arquivos exportados (`.bib`) das bases.
+- Finalizada triagem.
+- Atualizada seção "7. PRISMA", com os dados e diagrama.
+
 # V6.1 - 02/06/26
 - Ajustada definição do Contexto na tabela PICOC, para deixar claro que neste contexto de mapeamento sistemático não se aplica.
   - Com esta alteração, a observação foi removida da seção 4 (String de Busca).

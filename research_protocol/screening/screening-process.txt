@@ -1,0 +1,301 @@
+PLANILHA DE SCREENING - MSL RAG+LLM+Código-Fonte
+Critérios aplicados: CI1, CE1, CE2, CE6, CE7
+=========================================================================================================
+
+#    DECISÃO     CRIT      CONF    ANO   TÍTULO
+---------------------------------------------------------------------------------------------------------
+1    EXCLUIR     CE2       ALTA    2025  UGuideRAG: Intent-Enhanced Retrieval-Augmented Generation wi
+2    EXCLUIR     CE2       ALTA    2025  InspireDebate: Multi-Dimensional Subjective-Objective Evalua
+3    INCLUIR     CI1       ALTA    2025  BioRAGent: A Retrieval-Augmented Generation System for Showc
+4    EXCLUIR     CE2       ALTA    2025  Using large language models for enhanced fraud analysis and 
+5    EXCLUIR     CE2       ALTA    2026  MAKES-QA: A multi-agent framework for knowledge graph constr
+6    INCLUIR     CI1       ALTA    2026  A Multi-agent RAG Framework for Automated Source Code Vulner
+7    EXCLUIR     CE2       ALTA    2026  Medical multi-recall embedding: Adaptive retrieval for diver
+8    INCLUIR     CI1       ALTA    2025  Establishing Traceability Between Natural Language Requireme
+9    INCLUIR     CI1       ALTA    2025  N-CATS: A Neural Network Classification Automatic Taxonomy S
+10   INCLUIR     CI1       ALTA    2024  On Improving Repository-Level Code QA for Large Language Mod
+11   INCLUIR     CI1       ALTA    2025  EpMAN: Episodic Memory AttentioN for Generalizing to Longer 
+12   EXCLUIR     CE2       ALTA    2025  SyRACT: zero-shot biomedical document-level relation extract
+13   INCLUIR     CI1       ALTA    2025  A Multi-agent Onboarding Assistant based on Large Language M
+14   EXCLUIR     CE2       ALTA    2026  VideoRAG: Retrieval-Augmented Generation with Extreme Long-C
+15   EXCLUIR     CE2       ALTA    2026  Many hands make light work: An LLM-based multi-agent system 
+16   EXCLUIR     CE2       ALTA    2025  AGGILE: Automated Graph Generation for Inference and Languag
+17   EXCLUIR     CE2       ALTA    2026  RAQAG: A framework for automatically generating Q&A datasets
+18   INCLUIR     CI1       ALTA    2024  LLM agents for vulnerability identification and verification
+19   INCLUIR     CI1       ALTA    2026  Source Code Vulnerability Detection Method Based on Hybrid R
+20   EXCLUIR     CE2       ALTA    2026  Bridging the Semantic Gap in 5G: A Hybrid RAG Framework for 
+21   EXCLUIR     CE1       ALTA    2025  A unified rotating machinery health management framework lev
+22   INCLUIR     CI1       ALTA    2026  Enhancing the ability of LLMs for spaceborne equipment code 
+23   INCLUIR     CI1       ALTA    2025  Advanced Planning and Scheduling with Semantic Knowledge Gra
+24   EXCLUIR     CE2       ALTA    2026  HG-RAG: Hierarchical Graph-Based Retrieval-Augmented Generat
+25   EXCLUIR     CE2       ALTA    2026  ChatCEA: a knowledge-driven intelligent service agent for co
+26   INCLUIR     CI1       ALTA    2026  From Code to Execution: Multi-Agent GraphRAG for Automated A
+27   INCLUIR     CI1       ALTA    2026  StructuralCoder: Repository Structure Based RAG for Reposito
+28   INCLUIR     CI1       ALTA    2026  Repository-level code completion with adaptive segmentation 
+29   EXCLUIR     CE2       ALTA    2024  Enhancing Retrieval and Managing Retrieval: A Four-Module Sy
+30   EXCLUIR     CE2       ALTA    2026  24th International Conference on Computer Information System
+31   EXCLUIR     CE2       ALTA    2025  THINK-ON-GRAPH 2.0: DEEP AND FAITHFUL LARGE LANGUAGE MODEL R
+32   INCLUIR     CI1       ALTA    2024  S3LLM: Large-Scale Scientific Software Understanding with LL
+33   EXCLUIR     CE2       ALTA    2024  Towards a RAG-based summarization for the Electron Ion Colli
+34   EXCLUIR     CE1       ALTA    2026  Fine-tuning a vulnerability-specific large language model fo
+35   INCLUIR     CI1       ALTA    2024  Integrating Retrieval-Augmented Generation for Enhanced Code
+36   EXCLUIR     CE2       ALTA    2025  MKGF: A multi-modal knowledge graph based RAG framework to e
+37   EXCLUIR     CE2       ALTA    2025  REDEEP: DETECTING HALLUCINATION IN RETRIEVAL-AUGMENTED GENER
+38   EXCLUIR     CE2       ALTA    2025  WikiRAG: Revisiting Wikidata KGC Datasets with Community Upd
+39   INCLUIR     CI1       ALTA    2025  An Empirical Evaluation of LLM-Based Approaches for Code Vul
+40   INCLUIR     CI1       ALTA    2025  International Symposium on Grids and Clouds, ISGC 2025
+41   EXCLUIR     CE2       ALTA    2025  Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowle
+42   EXCLUIR     CE1       ALTA    2025  Development of a Virtual Assistant Based on LLMs for the Kno
+43   INCLUIR     CI1       ALTA    2025  Enhancing Contextual Memory in LLMs for Software Engineering
+44   EXCLUIR     CE2       ALTA    2025  CMedRAGBot: A Chinese Medical Chatbot Based on Graph RAG and
+45   EXCLUIR     CE2       ALTA    2025  MemoRAG: Boosting Long Context Processing with Global Memory
+46   EXCLUIR     CE2       ALTA    2025  ShizishanGPT: An Agricultural Large Language Model Integrati
+47   INCLUIR     CI1       ALTA    2024  Unveiling the Potential of a Conversational Agent in Develop
+48   INCLUIR     CI1       ALTA    2025  Can Language Models Replace Programmers for Coding? REPOCOD 
+49   EXCLUIR     CE1       ALTA    2024  An Adaptable AI Assistant for Network Management
+50   EXCLUIR     CE2       ALTA    2026  AviationCopilot: Building a reliable LLM-based Aviation Copi
+51   INCLUIR     CI1       ALTA    2025  Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requ
+52   INCLUIR     CI1       ALTA    2024  REAL: A Retrieval-Augmented Entity Linking Approach for Biom
+53   EXCLUIR     CE1       ALTA    2025  LaTeX-FC: Automating Latex Format Conversion Across Journals
+54   INCLUIR     CI1       ALTA    2025  Detecting Malicious Source Code in PyPI Packages with LLMs: 
+55   EXCLUIR     CE2       ALTA    2025  DS@GT at Touché: Large Language Models for Retrieval-Augment
+56   INCLUIR     CI1       ALTA    2025  Teacher-Guided Code Generation With API Update
+57   EXCLUIR     CE2       ALTA    2024  QPaug: Question and Passage Augmentation for Open-Domain Que
+58   INCLUIR     CI1       ALTA    2025  Tunnel Rapid AI Classification (TRaiC): An Open-Source Code 
+59   INCLUIR     CI1       ALTA    2026  RAGdeterm: Deterministic retrieval-augmented generation for 
+60   INCLUIR     CI1       ALTA    2025  Local Agentic RAG-Based Information System Development for I
+61   INCLUIR     CI1       ALTA    2026  A Framework for Vietnamese Virtual Assistant in Student Affa
+62   EXCLUIR     CE2       ALTA    2025  GPT4Rehab: AI-Based Upper-Limb Rehabilitation Trainer with S
+63   INCLUIR     CI1       ALTA    2026  Llama-Based Source Code Vulnerability Detection: Prompt Engi
+64   EXCLUIR     CE2       ALTA    2025  Lora for dense passage retrieval of ConTextual masked auto-e
+65   INCLUIR     CI1       ALTA    2024  Evaluation of Orca 2 Against Other LLMs for Retrieval Augmen
+66   EXCLUIR     CE1       ALTA    2025  Unlocking Code Understanding: A Local-First Hybrid Knowledge
+67   EXCLUIR     CE1       ALTA    2024  Enhancing Source Code Comment Generation via Retrieval-Augme
+68   INCLUIR     CI1       ALTA    2025  Analysing Code-Based Retrieval Augmented Generation Methods 
+69   INCLUIR     CI1       ALTA    2026  Evaluating Retrieval-Augmented Generation for LLM-Based Vuln
+70   INCLUIR     CI1       ALTA    2025  A Deep Dive into Retrieval-Augmented Generation for Code Com
+71   EXCLUIR     CE2       ALTA    2025  The Multi-Round Diagnostic RAG Framework for Emulating Clini
+72   EXCLUIR     CE1       ALTA    2026  Codebase Aware Generative Agents for the SDLC: Automating Do
+73   EXCLUIR     CE2       ALTA    2024  Knowledge Graph Based Retrieval-Augmented Generation for Mul
+74   INCLUIR     CI1       ALTA    2026  Source Code Error Categorization and Explanation by Retrieva
+75   EXCLUIR     CE2       ALTA    2026  Hybrid Retrieval Augmented Generation: Reliable and Accurate
+76   EXCLUIR     CE2       ALTA    2025  Customized Retrieval-Augmented Generation with LLM for Debia
+77   INCLUIR     CI1       ALTA    2026  Secure Retrieval-Augmented Generation Framework for Automate
+78   INCLUIR     CI1       ALTA    2025  RAG-Enhanced Semantic Code Retrieval & AI-Enhanced Communica
+79   EXCLUIR     CE1       ALTA    2025  HybridCode: A Dual-Database Framework for Intelligent Codeba
+80   INCLUIR     CI1       ALTA    2025  Collaborative Agent Framework for Web Vulnerability Discover
+81   INCLUIR     CI1       ALTA    2024  Leveraging RAG-LLM to Translate C++ to Rust - 2024 Internati
+82   EXCLUIR     CE1       ALTA    2025  Code Search with RAG: A Systematic Comparison of Retrieval P
+83   EXCLUIR     CE1       ALTA    2025  Multimodal Fusion for Vulnerability Detection: Integrating S
+84   EXCLUIR     CE4       ALTA    2025  N-CATS: A Neural Network Classification Automatic Taxonomy S
+85   INCLUIR     CI1       ALTA    2025  Code Summarization Beyond Function Level - 2025 IEEE/ACM Int
+86   INCLUIR     CI1       ALTA    2025  Enhancing Flutter App Development: Addressing Configuration 
+87   INCLUIR     CI1       ALTA    2025  LLM-assisted Performance Estimation of Embedded Software on 
+88   EXCLUIR     CE1       ALTA    2024  $\mathbf{A^{3
+89   EXCLUIR     CE1       ALTA    2025  GeoToken: Hierarchical Geolocalization of Images via Next To
+90   EXCLUIR     CE2       ALTA    2025  VoCare AI: A Multi-Agent LLM Workflow for Improved Clinic Op
+91   INCLUIR     CI1       ALTA    2026  VulKnow: Enhancing Vulnerability Detection with Structured K
+92   EXCLUIR     CE1       ALTA    2025  MDRE-LLM: A Tool for Analyzing and Applying LLMs in Software
+93   EXCLUIR     CE2       ALTA    2025  MedBlock-Bot: A Blockchain-Enabled RAG System for Providing 
+94   EXCLUIR     CE6       ALTA    2024  - Google Machine Learning and Generative AI for Solutions Ar
+95   INCLUIR     CI1       ALTA    2025  Wired for Reuse: Automating Context-Aware Code Adaptation in
+96   EXCLUIR     CE2       ALTA    2025  ORANSight-2.0: Foundational LLMs for O-RAN
+97   INCLUIR     CI1       ALTA    2026  Impact of an LLM-based Review Assistant in Practice: A Mixed
+98   INCLUIR     CI1       ALTA    2025  Augmenting Large Language Models with Static Code Analysis f
+99   INCLUIR     CI1       ALTA    2025  Rethinking Code Review Workflows with LLM Assistance: An Emp
+100  INCLUIR     CI1       ALTA    2025  Unleashing the Power of LLM to Infer State Machine From the 
+101  EXCLUIR     CE1       ALTA    2025  Ontology-Driven Multimodal Framework for Automated Interpret
+102  EXCLUIR     CE2       ALTA    2025  CROP: Circuit Retrieval and Optimization with Parameter Guid
+103  EXCLUIR     CE6       ALTA    2026  The Generative AI Attack Surface - Adversarial Machine Learn
+104  INCLUIR     CI1       ALTA    2024  An Empirical Comparison of Code Generation Approaches for An
+105  EXCLUIR     CE2       ALTA    2025  Large Language Models are Good Relational Learners
+106  INCLUIR     CI1       ALTA    2026  RAG and Agentic Assistant: A Combined Approach
+107  INCLUIR     CI1       ALTA    2026  Repository-Level Code Understanding by LLMs via Hierarchical
+108  EXCLUIR     CE2       ALTA    2025  scRAG: Hybrid Retrieval-Augmented Generation for LLM-based C
+109  EXCLUIR     CE1       ALTA    2025  Implementing a RAG-Based Chatbot in Industrial Operations: A
+110  INCLUIR     CI1       ALTA    2026  Code Reviews on a Budget: Memory-Efficient Fine-Tuning with 
+111  EXCLUIR     CE1       ALTA    2026  ENCO: Deploying Production-Scale Engineering Copilots
+112  DÚVIDA      CI1?/CE2? MÉDIA   2025  Lighter And Better: Towards Flexible Context Adaptation For 
+113  INCLUIR     CI1       ALTA    2026  SchemaRAG: A Schema-aware Retrieval-Augmented Generation Fra
+114  INCLUIR     CI1       ALTA    2026  When to Trust: A Causality-Aware Calibration Framework for A
+115  EXCLUIR     CE2       ALTA    2025  CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Au
+116  INCLUIR     CI1       ALTA    2025  Retrieval Augmented Generation Fine-Tuned LLM Model for Code
+117  INCLUIR     CI1       ALTA    2024  RTLFixer: Automatically Fixing RTL Syntax Errors with Large 
+118  EXCLUIR     CE2       ALTA    2026  What Should I Cite? A RAG Benchmark for Academic Citation Pr
+119  INCLUIR     CI1       ALTA    2026  Securing LLM-as-a-Service for Small Businesses: An Industry 
+120  EXCLUIR     CE2       ALTA    2025  W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-dom
+121  EXCLUIR     CE2       ALTA    2025  Towards Temporal-Aware Multi-Modal Retrieval Augemented Gene
+122  EXCLUIR     CE2       ALTA    2025  ExplainGen: a Human-Centered LLM Assistant for Combating Mis
+123  INCLUIR     CI1       ALTA    2025  AI Assistants to Enhance and Exploit the PETSc Knowledge Bas
+124  INCLUIR     CI1       ALTA    2025  LLM-assisted Bug Identification and Correction for Verilog H
+125  INCLUIR     CI1       ALTA    2025  SmartAuditFlow: A Dynamic Plan-Execute Framework for Advance
+126  INCLUIR     CI1       ALTA    2025  Log Pruning for Efficient Q&amp;A in 5G Networks - Proceedin
+127  INCLUIR     CI1       ALTA    2026  Large Language Models for Binary Decompilation: Paradigms, E
+128  EXCLUIR     CE1       ALTA    2026  Fix Pattern-Aware Vulnerability Patch Generation via In-Cont
+129  EXCLUIR     CE1       ALTA    2026  cfgLLM: Automated assistance for software requirements using
+130  EXCLUIR     CE1       ALTA    2026  PAT: Accelerating LLM Decoding via Prefix-Aware Attention wi
+
+=========================================================================================================
+DETALHAMENTO - EXCLUÍDOS (66)
+=========================================================================================================
+
+--- CE1: RAG ou LLM ausente (20) ---
+  #021 2025 | A unified rotating machinery health management framework leveraging large langua
+         RAG ausente no título+abstract
+  #034 2026 | Fine-tuning a vulnerability-specific large language model for a hybrid software 
+         RAG ausente no título+abstract
+  #042 2025 | Development of a Virtual Assistant Based on LLMs for the Knowledge Domain in Bio
+         RAG ausente no título+abstract
+  #049 2024 | An Adaptable AI Assistant for Network Management
+         RAG ausente no título+abstract
+  #053 2025 | LaTeX-FC: Automating Latex Format Conversion Across Journals via LLMs
+         RAG ausente no título+abstract
+  #066 2025 | Unlocking Code Understanding: A Local-First Hybrid Knowledge Graph Approach
+         RAG ausente no título+abstract
+  #067 2024 | Enhancing Source Code Comment Generation via Retrieval-Augmented Generation with
+         LLM/GenAI ausente no título+abstract
+  #072 2026 | Codebase Aware Generative Agents for the SDLC: Automating Documentation, Depende
+         RAG ausente no título+abstract
+  #079 2025 | HybridCode: A Dual-Database Framework for Intelligent Codebase Analysis and Arti
+         RAG ausente no título+abstract
+  #082 2025 | Code Search with RAG: A Systematic Comparison of Retrieval Performance - 2025 In
+         LLM/GenAI ausente no título+abstract
+  #083 2025 | Multimodal Fusion for Vulnerability Detection: Integrating Sequence and Graph-Ba
+         RAG ausente no título+abstract
+  #088 2024 | $\mathbf{A^{3
+         RAG ausente no título+abstract
+  #089 2025 | GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction - 202
+         RAG ausente no título+abstract
+  #092 2025 | MDRE-LLM: A Tool for Analyzing and Applying LLMs in Software Reverse Engineering
+         RAG ausente no título+abstract
+  #101 2025 | Ontology-Driven Multimodal Framework for Automated Interpretation and Descriptio
+         RAG ausente no título+abstract
+  #109 2025 | Implementing a RAG-Based Chatbot in Industrial Operations: A Real-World Case Stu
+         LLM/GenAI ausente no título+abstract
+  #111 2026 | ENCO: Deploying Production-Scale Engineering Copilots
+         LLM/GenAI ausente no título+abstract
+  #128 2026 | Fix Pattern-Aware Vulnerability Patch Generation via In-Context Learning
+         RAG ausente no título+abstract
+  #129 2026 | cfgLLM: Automated assistance for software requirements using multi-LLM Fusion Ag
+         RAG ausente no título+abstract
+  #130 2026 | PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficien
+         RAG ausente no título+abstract
+
+--- CE2: Foco principal fora de código-fonte (44) ---
+  #001 2025 | UGuideRAG: Intent-Enhanced Retrieval-Augmented Generation with User-Generated Co
+         Foco principal em outro domínio: turismo/urbano
+  #002 2025 | InspireDebate: Multi-Dimensional Subjective-Objective Evaluation-Guided Reasonin
+         Foco principal em outro domínio: debate/argumentação
+  #004 2025 | Using large language models for enhanced fraud analysis and detection in blockch
+         Foco principal em outro domínio: fraude/financeiro
+  #005 2026 | MAKES-QA: A multi-agent framework for knowledge graph construction and enrichmen
+         Foco principal em outro domínio: QA/knowledge graph genérico
+  #007 2026 | Medical multi-recall embedding: Adaptive retrieval for diverse evidence in medic
+         Foco principal em outro domínio: biomédico/saúde
+  #012 2025 | SyRACT: zero-shot biomedical document-level relation extraction with synergistic
+         Foco principal: extração de relações biomédicas em documentos científicos
+  #014 2026 | VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos
+         Foco principal em outro domínio: vídeo/multimodal não-código
+  #015 2026 | Many hands make light work: An LLM-based multi-agent system for detecting malici
+         Foco principal em outro domínio: supply chain/logística
+  #016 2025 | AGGILE: Automated Graph Generation for Inference and Language Exploration
+         Foco principal: knowledge graphs genéricos; código mencionado perifericamente
+  #017 2026 | RAQAG: A framework for automatically generating Q&A datasets with retrieval-augm
+         Foco principal: geração de datasets QA para fine-tuning; não é código-fonte
+  #020 2026 | Bridging the Semantic Gap in 5G: A Hybrid RAG Framework for Dual-Domain Understa
+         Foco principal em outro domínio: telecom/5G não-código
+  #024 2026 | HG-RAG: Hierarchical Graph-Based Retrieval-Augmented Generation for Metabolomics
+         Foco principal: metabolômica/biomédico - question answering científico
+  #025 2026 | ChatCEA: a knowledge-driven intelligent service agent for controlled environment
+         Foco principal em outro domínio: agricultura
+  #029 2024 | Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Q
+         RAG genérico para QA - não há foco em código-fonte
+  #030 2026 | 24th International Conference on Computer Information Systems and Industrial Man
+         Foco principal em outro domínio: turismo/urbano
+  #031 2025 | THINK-ON-GRAPH 2.0: DEEP AND FAITHFUL LARGE LANGUAGE MODEL REASONING WITH KNOWLE
+         Foco principal: raciocínio sobre knowledge graphs - não é código-fonte
+  #033 2024 | Towards a RAG-based summarization for the Electron Ion Collider
+         Foco principal: sumarização de documentos do Electron Ion Collider (física)
+  #036 2025 | MKGF: A multi-modal knowledge graph based RAG framework to enhance LVLMs for Med
+         Foco principal em outro domínio: biomédico/saúde
+  #037 2025 | REDEEP: DETECTING HALLUCINATION IN RETRIEVAL-AUGMENTED GENERATION VIA MECHANISTI
+         Foco principal: detecção de alucinações em RAG - não é código-fonte
+  #038 2025 | WikiRAG: Revisiting Wikidata KGC Datasets with Community Updates and Retrieval-A
+         Foco principal: knowledge graph completion (Wikidata) - não é código-fonte
+  #041 2025 | Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases
+         Foco principal: segurança/ataques a sistemas RAG - não é código-fonte
+  #044 2025 | CMedRAGBot: A Chinese Medical Chatbot Based on Graph RAG and Large Language Mode
+         Foco principal em outro domínio: biomédico/saúde
+  #045 2025 | MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval 
+         Foco principal: processamento de contextos longos em RAG genérico
+  #046 2025 | ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resourc
+         Foco principal em outro domínio: agricultura
+  #050 2026 | AviationCopilot: Building a reliable LLM-based Aviation Copilot inspired by huma
+         Foco principal: copiloto de aviação - não é código-fonte
+  #055 2025 | DS@GT at Touché: Large Language Models for Retrieval-Augmented Debate
+         Foco principal em outro domínio: debate/argumentação
+  #057 2024 | QPaug: Question and Passage Augmentation for Open-Domain Question Answering of L
+         Foco principal em outro domínio: QA/knowledge graph genérico
+  #062 2025 | GPT4Rehab: AI-Based Upper-Limb Rehabilitation Trainer with Stereo Cameras
+         Foco principal: reabilitação física com câmeras - não é código-fonte
+  #064 2025 | Lora for dense passage retrieval of ConTextual masked auto-encoding
+         Foco principal: Dense Passage Retrieval com LoRA - melhoria de retrieval genérico, não código
+  #071 2025 | The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning - 2025
+         Foco principal em outro domínio: biomédico/saúde
+  #073 2024 | Knowledge Graph Based Retrieval-Augmented Generation for Multi-Hop Question Answ
+         Foco principal: multi-hop QA sobre knowledge graphs - não é código-fonte
+  #075 2026 | Hybrid Retrieval Augmented Generation: Reliable and Accurate Question Answering 
+         RAG híbrido genérico para QA - sem foco em código-fonte
+  #076 2025 | Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation 
+         Foco principal em outro domínio: recomendação genérica
+  #090 2025 | VoCare AI: A Multi-Agent LLM Workflow for Improved Clinic Operational Efficiency
+         Foco principal: eficiência operacional clínica (kiosks Singapore) - não é código-fonte
+  #093 2025 | MedBlock-Bot: A Blockchain-Enabled RAG System for Providing Feedback to Large La
+         Foco principal: feedback clínico para LLMs em healthcare - não é código-fonte
+  #096 2025 | ORANSight-2.0: Foundational LLMs for O-RAN
+         Foco principal em outro domínio: telecom/5G não-código
+  #102 2025 | CROP: Circuit Retrieval and Optimization with Parameter Guidance using LLMs - 20
+         Foco principal em outro domínio: agricultura
+  #105 2025 | Large Language Models are Good Relational Learners
+         Foco principal: relational deep learning em databases - sem RAG explícito e sem código-fonte
+  #108 2025 | scRAG: Hybrid Retrieval-Augmented Generation for LLM-based Cross-Tissue Single-C
+         Foco principal em outro domínio: biomédico/saúde
+  #115 2025 | CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation o
+         Foco principal: benchmark chinês de RAG genérico (CRUD) - não é código-fonte
+  #118 2026 | What Should I Cite? A RAG Benchmark for Academic Citation Prediction - Proceedin
+         Foco principal em outro domínio: QA/knowledge graph genérico
+  #120 2025 | W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answeri
+         Foco principal em outro domínio: QA/knowledge graph genérico
+  #121 2025 | Towards Temporal-Aware Multi-Modal Retrieval Augemented Generation in Finance - 
+         Foco principal em outro domínio: NLP genérico
+  #122 2025 | ExplainGen: a Human-Centered LLM Assistant for Combating Misinformation - Procee
+         Foco principal: combate a desinformação - não é código-fonte
+
+--- CE6: Não é artigo com revisão por pares (2) ---
+  #094 2024 | - Google Machine Learning and Generative AI for Solutions Architects: ​Build eff
+         Livro (capítulo): Google Machine Learning and Generative AI for Solutions Architects
+  #103 2026 | The Generative AI Attack Surface - Adversarial Machine Learning: Mechanisms, Vul
+         Livro (capítulo): Adversarial Machine Learning - capítulo de livro
+
+=========================================================================================================
+DÚVIDAS (1) - manter para leitura completa
+=========================================================================================================
+
+#112 [CI1?/CE2?] 2025 | Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation
+  RAG para adaptação de contexto - genérico, não específico de código. Verificar full-text
+
+=========================================================================================================
+DUPLICATAS IDENTIFICADAS DURANTE A TRIAGEM
+=========================================================================================================
+  #084 2025 | N-CATS: A Neural Network Classification Automatic Taxonomy S
+		 Duplicado em relação ao item #009
+=========================================================================================================
+
+RESUMO PRISMA
+  Triagem (entrada):            129 artigos únicos
+  Excluídos na triagem:          66 artigos
+    CE1 (sem RAG ou LLM):        20
+    CE2 (foco fora de código):   44
+    CE6 (não-artigo):             2
+  Dúvidas (leitura completa):     1 artigo
+  Incluídos (elegíveis):         62 artigos + 1 dúvida = 63 para leitura completa

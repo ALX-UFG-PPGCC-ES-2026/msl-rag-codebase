@@ -53,6 +53,7 @@ almeida_alex@discente.ufg.br
 │   ├── CHANGELOG.md          # Protocol decision log
 │   └── examples/             # Example studies used as reference
 │   └── references/           # Methodological references
+│   └── screening/            # Screening process
 │
 └── sources/                  # Data collected from search sources
     ├── search_strings.md     # Documented search strings per source
