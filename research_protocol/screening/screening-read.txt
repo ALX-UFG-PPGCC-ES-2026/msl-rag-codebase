@@ -1,63 +1,64 @@
-3    INCLUIR     CI1       ALTA    2025  BioRAGent: A Retrieval-Augmented Generation System for Showc no
-6    INCLUIR     CI1       ALTA    2026  A Multi-agent RAG Framework for Automated Source Code Vulner no
-8    INCLUIR     CI1       ALTA    2025  Establishing Traceability Between Natural Language Requireme no
-9    INCLUIR     CI1       ALTA    2025  N-CATS: A Neural Network Classification Automatic Taxonomy S ok
-10   INCLUIR     CI1       ALTA    2024  On Improving Repository-Level Code QA for Large Language Mod ok
-11   INCLUIR     CI1       ALTA    2025  EpMAN: Episodic Memory AttentioN for Generalizing to Longer  ok
-13   INCLUIR     CI1       ALTA    2025  A Multi-agent Onboarding Assistant based on Large Language M no
-18   INCLUIR     CI1       ALTA    2024  LLM agents for vulnerability identification and verification no
-19   INCLUIR     CI1       ALTA    2026  Source Code Vulnerability Detection Method Based on Hybrid R no
-22   INCLUIR     CI1       ALTA    2026  Enhancing the ability of LLMs for spaceborne equipment code  no
-23   INCLUIR     CI1       ALTA    2025  Advanced Planning and Scheduling with Semantic Knowledge Gra no
-26   INCLUIR     CI1       ALTA    2026  From Code to Execution: Multi-Agent GraphRAG for Automated A no
-27   INCLUIR     CI1       ALTA    2026  StructuralCoder: Repository Structure Based RAG for Reposito no
-28   INCLUIR     CI1       ALTA    2026  Repository-level code completion with adaptive segmentation  no
-32   INCLUIR     CI1       ALTA    2024  S3LLM: Large-Scale Scientific Software Understanding with LL no
-35   INCLUIR     CI1       ALTA    2024  Integrating Retrieval-Augmented Generation for Enhanced Code no
-39   INCLUIR     CI1       ALTA    2025  An Empirical Evaluation of LLM-Based Approaches for Code Vul no
-40   INCLUIR     CI1       ALTA    2025  International Symposium on Grids and Clouds, ISGC 2025       no
-43   INCLUIR     CI1       ALTA    2025  Enhancing Contextual Memory in LLMs for Software Engineering no
-47   INCLUIR     CI1       ALTA    2024  Unveiling the Potential of a Conversational Agent in Develop no
-48   INCLUIR     CI1       ALTA    2025  Can Language Models Replace Programmers for Coding? REPOCOD  ok
-51   INCLUIR     CI1       ALTA    2025  Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requ no
-52   INCLUIR     CI1       ALTA    2024  REAL: A Retrieval-Augmented Entity Linking Approach for Biom no
-53   EXCLUIR     CE1       ALTA    2025  LaTeX-FC: Automating Latex Format Conversion Across Journals no
-54   INCLUIR     CI1       ALTA    2025  Detecting Malicious Source Code in PyPI Packages with LLMs:  no
-56   INCLUIR     CI1       ALTA    2025  Teacher-Guided Code Generation With API Update               no
-58   INCLUIR     CI1       ALTA    2025  Tunnel Rapid AI Classification (TRaiC): An Open-Source Code  no
-59   INCLUIR     CI1       ALTA    2026  RAGdeterm: Deterministic retrieval-augmented generation for  no
-60   INCLUIR     CI1       ALTA    2025  Local Agentic RAG-Based Information System Development for I ok
-61   INCLUIR     CI1       ALTA    2026  A Framework for Vietnamese Virtual Assistant in Student Affa no
-63   INCLUIR     CI1       ALTA    2026  Llama-Based Source Code Vulnerability Detection: Prompt Engi no
-65   INCLUIR     CI1       ALTA    2024  Evaluation of Orca 2 Against Other LLMs for Retrieval Augmen no
-68   INCLUIR     CI1       ALTA    2025  Analysing Code-Based Retrieval Augmented Generation Methods  ok
-69   INCLUIR     CI1       ALTA    2026  Evaluating Retrieval-Augmented Generation for LLM-Based Vuln ok
-70   INCLUIR     CI1       ALTA    2025  A Deep Dive into Retrieval-Augmented Generation for Code Com ok
-74   INCLUIR     CI1       ALTA    2026  Source Code Error Categorization and Explanation by Retrieva ok
-77   INCLUIR     CI1       ALTA    2026  Secure Retrieval-Augmented Generation Framework for Automate ok
-78   INCLUIR     CI1       ALTA    2025  RAG-Enhanced Semantic Code Retrieval & AI-Enhanced Communica ok
-80   INCLUIR     CI1       ALTA    2025  Collaborative Agent Framework for Web Vulnerability Discover ok
-85   INCLUIR     CI1       ALTA    2025  Code Summarization Beyond Function Level - 2025 IEEE/ACM Int ok
-86   INCLUIR     CI1       ALTA    2025  Enhancing Flutter App Development: Addressing Configuration  ok
-87   INCLUIR     CI1       ALTA    2025  LLM-assisted Performance Estimation of Embedded Software on  ok
-91   INCLUIR     CI1       ALTA    2026  VulKnow: Enhancing Vulnerability Detection with Structured K ok
-95   INCLUIR     CI1       ALTA    2025  Wired for Reuse: Automating Context-Aware Code Adaptation in ok
-97   INCLUIR     CI1       ALTA    2026  Impact of an LLM-based Review Assistant in Practice: A Mixed ok
-98   INCLUIR     CI1       ALTA    2025  Augmenting Large Language Models with Static Code Analysis f ok
-99   INCLUIR     CI1       ALTA    2025  Rethinking Code Review Workflows with LLM Assistance: An Emp ok
-100  INCLUIR     CI1       ALTA    2025  Unleashing the Power of LLM to Infer State Machine From the  ok
-104  INCLUIR     CI1       ALTA    2024  An Empirical Comparison of Code Generation Approaches for An ok
-106  INCLUIR     CI1       ALTA    2026  RAG and Agentic Assistant: A Combined Approach               no
-107  INCLUIR     CI1       ALTA    2026  Repository-Level Code Understanding by LLMs via Hierarchical no
-110  INCLUIR     CI1       ALTA    2026  Code Reviews on a Budget: Memory-Efficient Fine-Tuning with  no
-112  DÚVIDA      CI1?/CE2? MÉDIA   2025  Lighter And Better: Towards Flexible Context Adaptation For  no
-113  INCLUIR     CI1       ALTA    2026  SchemaRAG: A Schema-aware Retrieval-Augmented Generation Fra ok
-114  INCLUIR     CI1       ALTA    2026  When to Trust: A Causality-Aware Calibration Framework for A ok
-116  INCLUIR     CI1       ALTA    2025  Retrieval Augmented Generation Fine-Tuned LLM Model for Code ok
-117  INCLUIR     CI1       ALTA    2024  RTLFixer: Automatically Fixing RTL Syntax Errors with Large  ok
-119  INCLUIR     CI1       ALTA    2026  Securing LLM-as-a-Service for Small Businesses: An Industry  ok
-123  INCLUIR     CI1       ALTA    2025  AI Assistants to Enhance and Exploit the PETSc Knowledge Bas ok
-124  INCLUIR     CI1       ALTA    2025  LLM-assisted Bug Identification and Correction for Verilog H ok
-125  INCLUIR     CI1       ALTA    2025  SmartAuditFlow: A Dynamic Plan-Execute Framework for Advance ok
-126  INCLUIR     CI1       ALTA    2025  Log Pruning for Efficient Q&amp;A in 5G Networks - Proceedin ok
-127  INCLUIR     CI1       ALTA    2026  Large Language Models for Binary Decompilation: Paradigms, E ok
+3    INCLUIR     CI1       BioRAGent: A Retrieval-Augmented Generation System for Showc ok https://doi.org/10.1007/978-3-031-88720-8_1 (BioRAGent: A Retrieval-Augmented Generation System for Showcasing Generative Query Expansion and Domain-Specific Search for Scientific Q&A)
+6    INCLUIR     CI1       A Multi-agent RAG Framework for Automated Source Code Vulner no https://doi.org/10.1007/978-981-95-3489-0_36 (A Multi-agent RAG Framework for Automated Source Code Vulnerability Detection and Repair)
+8    INCLUIR     CI1       Establishing Traceability Between Natural Language Requireme ok https://doi.org/10.1007/978-3-031-75872-0_16 (Establishing Traceability Between Natural Language Requirements and Software Artifacts by Combining RAG and LLMs)
+9    INCLUIR     CI1       N-CATS: A Neural Network Classification Automatic Taxonomy S ok
+10   INCLUIR     CI1       On Improving Repository-Level Code QA for Large Language Mod ok
+11   INCLUIR     CI1       EpMAN: Episodic Memory AttentioN for Generalizing to Longer  ok
+13   INCLUIR     CI1       A Multi-agent Onboarding Assistant based on Large Language M ok (A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought)
+18   INCLUIR     CI1       LLM agents for vulnerability identification and verification ok (LLM agents for vulnerability identification and verification of CVEs)
+19   INCLUIR     CI1       Source Code Vulnerability Detection Method Based on Hybrid R no https://doi.org/10.1007/978-981-95-5294-8_35 (Source Code Vulnerability Detection Method Based on Hybrid Retrieval-Augmented Generation Technology)
+22   INCLUIR     CI1       Enhancing the ability of LLMs for spaceborne equipment code  ok https://doi.org/10.1007/s10515-025-00545-1 (Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning)
+23   INCLUIR     CI1       Advanced Planning and Scheduling with Semantic Knowledge Gra ok (Advanced Planning and Scheduling with Semantic Knowledge Graphs and LLMs)
+26   INCLUIR     CI1       From Code to Execution: Multi-Agent GraphRAG for Automated A ok (From Code to Execution: Multi-Agent GraphRAG for Automated Artifact Generation)
+27   INCLUIR     CI1       StructuralCoder: Repository Structure Based RAG for Reposito no https://doi.org/10.1007/978-981-95-7078-2_43 (StructuralCoder: Repository Structure Based RAG for Repository-Level Code Completion)
+28   INCLUIR     CI1       Repository-level code completion with adaptive segmentation  ok https://doi.org/10.1007/s10664-025-10762-7 (Repository-level code completion with adaptive segmentation and fused retrieval)
+32   INCLUIR     CI1       S3LLM: Large-Scale Scientific Software Understanding with LL ok https://doi.org/10.1007/978-3-031-63759-9_27 (S3LLM: Large-Scale Scientific Software Understanding with LLMs Using Source, Metadata, and Document)
+35   INCLUIR     CI1       Integrating Retrieval-Augmented Generation for Enhanced Code ok (Integrating Retrieval-Augmented Generation for Enhanced Code Reuse: A Comprehensive Framework for Efficient Software Development)
+39   INCLUIR     CI1       An Empirical Evaluation of LLM-Based Approaches for Code Vul ok (An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems)
+40   EXCLUIR     CE6       International Symposium on Grids and Clouds, ISGC 2025       -- (International Symposium on Grids and Clouds)
+43   INCLUIR     CI1       Enhancing Contextual Memory in LLMs for Software Engineering ok (Enhancing Contextual Memory in LLMs for Software Engineering via Ontology-based Inference)
+47   INCLUIR     CI1       Unveiling the Potential of a Conversational Agent in Develop ok (Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla’s PDF.js Project)
+48   INCLUIR     CI1       Can Language Models Replace Programmers for Coding? REPOCOD  ok
+51   INCLUIR     CI1       Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requ ok (Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests)
+52   INCLUIR     CI1       REAL: A Retrieval-Augmented Entity Linking Approach for Biom ok (REAL: A Retrieval-Augmented Entity Linking Approach for Biomedical Concept Recognition)
+-53   EXCLUIR     CE1       LaTeX-FC: Automating Latex Format Conversion Across Journals no (LaTeX-FC: Automating Latex Format Conversion Across Journals via LLMs)
+54   INCLUIR     CI1       Detecting Malicious Source Code in PyPI Packages with LLMs:  ok (Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy)
+56   INCLUIR     CI1       Teacher-Guided Code Generation With API Update               ok (Teacher-Guided Code Generation With API Update)
+58   INCLUIR     CI1       Tunnel Rapid AI Classification (TRaiC): An Open-Source Code  ok (Tunnel Rapid AI Classification (TRaiC): An Open-Source Code for 360° Tunnel Face Mapping, Discontinuity Analysis, and RAG-LLM-Powered Geo-Engineering Reporting)
+59   INCLUIR     CI1       RAGdeterm: Deterministic retrieval-augmented generation for  ok (RAGdeterm: Deterministic retrieval-augmented generation for code generation)
+60   INCLUIR     CI1       Local Agentic RAG-Based Information System Development for I ok
+61   INCLUIR     CI1       A Framework for Vietnamese Virtual Assistant in Student Affa no https://doi.org/10.1007/978-3-032-07721-9_44 (A Framework for Vietnamese Virtual Assistant in Student Affairs for Higher Education)
+63   INCLUIR     CI1       Llama-Based Source Code Vulnerability Detection: Prompt Engi ok https://doi.org/10.1007/978-3-032-07884-1_15 (Llama-Based Source Code Vulnerability Detection: Prompt Engineering vs Fine Tuning)
+65   INCLUIR     CI1       Evaluation of Orca 2 Against Other LLMs for Retrieval Augmen ok https://doi.org/10.1007/978-981-97-2650-9_1 (Evaluation of Orca 2 Against Other LLMs for Retrieval Augmented Generation)
+68   INCLUIR     CI1       Analysing Code-Based Retrieval Augmented Generation Methods  ok
+69   INCLUIR     CI1       Evaluating Retrieval-Augmented Generation for LLM-Based Vuln ok
+70   INCLUIR     CI1       A Deep Dive into Retrieval-Augmented Generation for Code Com ok
+74   INCLUIR     CI1       Source Code Error Categorization and Explanation by Retrieva ok
+77   INCLUIR     CI1       Secure Retrieval-Augmented Generation Framework for Automate ok
+78   INCLUIR     CI1       RAG-Enhanced Semantic Code Retrieval & AI-Enhanced Communica ok
+80   INCLUIR     CI1       Collaborative Agent Framework for Web Vulnerability Discover ok
+81   INCLUIR     CI1       Leveraging RAG-LLM to Translate C++ to Rust - 2024 Internati no https://doi.org/10.1109/icaa64256.2024.00024 (Leveraging RAG-LLM to Translate C++ to Rust)
+85   INCLUIR     CI1       Code Summarization Beyond Function Level - 2025 IEEE/ACM Int ok
+86   INCLUIR     CI1       Enhancing Flutter App Development: Addressing Configuration  ok
+87   INCLUIR     CI1       LLM-assisted Performance Estimation of Embedded Software on  ok
+91   INCLUIR     CI1       VulKnow: Enhancing Vulnerability Detection with Structured K ok
+95   INCLUIR     CI1       Wired for Reuse: Automating Context-Aware Code Adaptation in ok
+97   INCLUIR     CI1       Impact of an LLM-based Review Assistant in Practice: A Mixed ok
+98   INCLUIR     CI1       Augmenting Large Language Models with Static Code Analysis f ok
+99   INCLUIR     CI1       Rethinking Code Review Workflows with LLM Assistance: An Emp ok
+100  INCLUIR     CI1       Unleashing the Power of LLM to Infer State Machine From the  ok
+104  INCLUIR     CI1       An Empirical Comparison of Code Generation Approaches for An ok
+106  INCLUIR     CI1       RAG and Agentic Assistant: A Combined Approach               ok ()
+107  INCLUIR     CI1       Repository-Level Code Understanding by LLMs via Hierarchical ok https://doi.org/10.1007/978-3-031-97576-9_6 (Repository-Level Code Understanding by LLMs via Hierarchical Summarization: Improving Code Search and Bug Localization)
+110  INCLUIR     CI1       Code Reviews on a Budget: Memory-Efficient Fine-Tuning with  no https://doi.org/10.1007/978-3-032-14107-1_31 (Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications)
+112  DÚVIDA      CI1?/CE2? Lighter And Better: Towards Flexible Context Adaptation For  ok (Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation)
+113  INCLUIR     CI1       SchemaRAG: A Schema-aware Retrieval-Augmented Generation Fra ok
+114  INCLUIR     CI1       When to Trust: A Causality-Aware Calibration Framework for A ok
+116  INCLUIR     CI1       Retrieval Augmented Generation Fine-Tuned LLM Model for Code ok
+117  INCLUIR     CI1       RTLFixer: Automatically Fixing RTL Syntax Errors with Large  ok
+119  INCLUIR     CI1       Securing LLM-as-a-Service for Small Businesses: An Industry  ok
+123  INCLUIR     CI1       AI Assistants to Enhance and Exploit the PETSc Knowledge Bas ok
+124  INCLUIR     CI1       LLM-assisted Bug Identification and Correction for Verilog H ok
+125  INCLUIR     CI1       SmartAuditFlow: A Dynamic Plan-Execute Framework for Advance ok
+126  INCLUIR     CI1       Log Pruning for Efficient Q&amp;A in 5G Networks - Proceedin ok
+127  INCLUIR     CI1       Large Language Models for Binary Decompilation: Paradigms, E ok
