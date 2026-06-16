@@ -1,3 +1,6 @@
+# V7.1 - 15/06/26
+- Removido artigo "International Symposium on Grids and Clouds": CE6.
+
 # V7.0 - 04/06/26
 - Atualizados arquivos exportados (`.bib`) das bases.
 - Finalizada triagem.
