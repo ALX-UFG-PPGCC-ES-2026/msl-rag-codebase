@@ -37,7 +37,7 @@
 77   INCLUIR     CI1       Secure Retrieval-Augmented Generation Framework for Automate ok
 78   INCLUIR     CI1       RAG-Enhanced Semantic Code Retrieval & AI-Enhanced Communica ok
 80   INCLUIR     CI1       Collaborative Agent Framework for Web Vulnerability Discover ok
-81   INCLUIR     CI1       Leveraging RAG-LLM to Translate C++ to Rust - 2024 Internati no https://doi.org/10.1109/icaa64256.2024.00024 (Leveraging RAG-LLM to Translate C++ to Rust)
+81   INCLUIR     CI1       Leveraging RAG-LLM to Translate C++ to Rust - 2024 Internati ok https://doi.org/10.1109/icaa64256.2024.00024 (Leveraging RAG-LLM to Translate C++ to Rust)
 85   INCLUIR     CI1       Code Summarization Beyond Function Level - 2025 IEEE/ACM Int ok
 86   INCLUIR     CI1       Enhancing Flutter App Development: Addressing Configuration  ok
 87   INCLUIR     CI1       LLM-assisted Performance Estimation of Embedded Software on  ok
@@ -50,7 +50,7 @@
 104  INCLUIR     CI1       An Empirical Comparison of Code Generation Approaches for An ok
 106  INCLUIR     CI1       RAG and Agentic Assistant: A Combined Approach               ok ()
 107  INCLUIR     CI1       Repository-Level Code Understanding by LLMs via Hierarchical ok https://doi.org/10.1007/978-3-031-97576-9_6 (Repository-Level Code Understanding by LLMs via Hierarchical Summarization: Improving Code Search and Bug Localization)
-110  INCLUIR     CI1       Code Reviews on a Budget: Memory-Efficient Fine-Tuning with  no https://doi.org/10.1007/978-3-032-14107-1_31 (Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications)
+-110  EXCLUIR     CI1       Code Reviews on a Budget: Memory-Efficient Fine-Tuning with  no acm https://doi.org/10.1007/978-3-032-14107-1_31 (Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications)
 112  DÚVIDA      CI1?/CE2? Lighter And Better: Towards Flexible Context Adaptation For  ok (Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation)
 113  INCLUIR     CI1       SchemaRAG: A Schema-aware Retrieval-Augmented Generation Fra ok
 114  INCLUIR     CI1       When to Trust: A Causality-Aware Calibration Framework for A ok

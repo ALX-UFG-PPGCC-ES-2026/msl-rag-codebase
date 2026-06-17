@@ -1,3 +1,6 @@
+# V7.2 - 16/06/26
+- Removido artigo "Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications": CE6.
+
 # V7.1 - 15/06/26
 - Removido artigo "International Symposium on Grids and Clouds": CE6.
 
