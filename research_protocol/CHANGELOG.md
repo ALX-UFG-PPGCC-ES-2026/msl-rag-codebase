@@ -1,3 +1,13 @@
+# V8.0 - 17/06/26
+- Adicionado "CE8 - Texto completo do artigo inacessível após busca nas bases institucionais (CAPES/UFG), Google Scholar e ResearchGate."
+- Removidos artigos por CE8:
+  - A Multi-agent RAG Framework for Automated Source Code Vulnerability Detection and Repair
+  - Source Code Vulnerability Detection Method Based on Hybrid Retrieval-Augmented Generation Technology
+  - StructuralCoder: Repository Structure Based RAG for Repository-Level Code Completion
+  - A Framework for Vietnamese Virtual Assistant in Student Affairs for Higher Education
+- Removido artigo "Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation": CE2.
+- Atualizada secão "7. PRISMA".
+
 # V7.2 - 16/06/26
 - Removido artigo "Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications": CE6.
 

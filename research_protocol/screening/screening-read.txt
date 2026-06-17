@@ -1,16 +1,16 @@
 3    INCLUIR     CI1       BioRAGent: A Retrieval-Augmented Generation System for Showc ok https://doi.org/10.1007/978-3-031-88720-8_1 (BioRAGent: A Retrieval-Augmented Generation System for Showcasing Generative Query Expansion and Domain-Specific Search for Scientific Q&A)
-6    INCLUIR     CI1       A Multi-agent RAG Framework for Automated Source Code Vulner no https://doi.org/10.1007/978-981-95-3489-0_36 (A Multi-agent RAG Framework for Automated Source Code Vulnerability Detection and Repair)
+-6    EXCLUIR     CI1       A Multi-agent RAG Framework for Automated Source Code Vulner no https://doi.org/10.1007/978-981-95-3489-0_36 (A Multi-agent RAG Framework for Automated Source Code Vulnerability Detection and Repair)
 8    INCLUIR     CI1       Establishing Traceability Between Natural Language Requireme ok https://doi.org/10.1007/978-3-031-75872-0_16 (Establishing Traceability Between Natural Language Requirements and Software Artifacts by Combining RAG and LLMs)
 9    INCLUIR     CI1       N-CATS: A Neural Network Classification Automatic Taxonomy S ok
 10   INCLUIR     CI1       On Improving Repository-Level Code QA for Large Language Mod ok
 11   INCLUIR     CI1       EpMAN: Episodic Memory AttentioN for Generalizing to Longer  ok
 13   INCLUIR     CI1       A Multi-agent Onboarding Assistant based on Large Language M ok (A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought)
 18   INCLUIR     CI1       LLM agents for vulnerability identification and verification ok (LLM agents for vulnerability identification and verification of CVEs)
-19   INCLUIR     CI1       Source Code Vulnerability Detection Method Based on Hybrid R no https://doi.org/10.1007/978-981-95-5294-8_35 (Source Code Vulnerability Detection Method Based on Hybrid Retrieval-Augmented Generation Technology)
+-19   EXCLUIR     CI1       Source Code Vulnerability Detection Method Based on Hybrid R no https://doi.org/10.1007/978-981-95-5294-8_35 (Source Code Vulnerability Detection Method Based on Hybrid Retrieval-Augmented Generation Technology)
 22   INCLUIR     CI1       Enhancing the ability of LLMs for spaceborne equipment code  ok https://doi.org/10.1007/s10515-025-00545-1 (Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning)
 23   INCLUIR     CI1       Advanced Planning and Scheduling with Semantic Knowledge Gra ok (Advanced Planning and Scheduling with Semantic Knowledge Graphs and LLMs)
 26   INCLUIR     CI1       From Code to Execution: Multi-Agent GraphRAG for Automated A ok (From Code to Execution: Multi-Agent GraphRAG for Automated Artifact Generation)
-27   INCLUIR     CI1       StructuralCoder: Repository Structure Based RAG for Reposito no https://doi.org/10.1007/978-981-95-7078-2_43 (StructuralCoder: Repository Structure Based RAG for Repository-Level Code Completion)
+-27   EXCLUIR     CI1       StructuralCoder: Repository Structure Based RAG for Reposito no https://doi.org/10.1007/978-981-95-7078-2_43 (StructuralCoder: Repository Structure Based RAG for Repository-Level Code Completion)
 28   INCLUIR     CI1       Repository-level code completion with adaptive segmentation  ok https://doi.org/10.1007/s10664-025-10762-7 (Repository-level code completion with adaptive segmentation and fused retrieval)
 32   INCLUIR     CI1       S3LLM: Large-Scale Scientific Software Understanding with LL ok https://doi.org/10.1007/978-3-031-63759-9_27 (S3LLM: Large-Scale Scientific Software Understanding with LLMs Using Source, Metadata, and Document)
 35   INCLUIR     CI1       Integrating Retrieval-Augmented Generation for Enhanced Code ok (Integrating Retrieval-Augmented Generation for Enhanced Code Reuse: A Comprehensive Framework for Efficient Software Development)
@@ -27,7 +27,7 @@
 58   INCLUIR     CI1       Tunnel Rapid AI Classification (TRaiC): An Open-Source Code  ok (Tunnel Rapid AI Classification (TRaiC): An Open-Source Code for 360° Tunnel Face Mapping, Discontinuity Analysis, and RAG-LLM-Powered Geo-Engineering Reporting)
 59   INCLUIR     CI1       RAGdeterm: Deterministic retrieval-augmented generation for  ok (RAGdeterm: Deterministic retrieval-augmented generation for code generation)
 60   INCLUIR     CI1       Local Agentic RAG-Based Information System Development for I ok
-61   INCLUIR     CI1       A Framework for Vietnamese Virtual Assistant in Student Affa no https://doi.org/10.1007/978-3-032-07721-9_44 (A Framework for Vietnamese Virtual Assistant in Student Affairs for Higher Education)
+-61   EXCLUIR     CI1       A Framework for Vietnamese Virtual Assistant in Student Affa no https://doi.org/10.1007/978-3-032-07721-9_44 (A Framework for Vietnamese Virtual Assistant in Student Affairs for Higher Education)
 63   INCLUIR     CI1       Llama-Based Source Code Vulnerability Detection: Prompt Engi ok https://doi.org/10.1007/978-3-032-07884-1_15 (Llama-Based Source Code Vulnerability Detection: Prompt Engineering vs Fine Tuning)
 65   INCLUIR     CI1       Evaluation of Orca 2 Against Other LLMs for Retrieval Augmen ok https://doi.org/10.1007/978-981-97-2650-9_1 (Evaluation of Orca 2 Against Other LLMs for Retrieval Augmented Generation)
 68   INCLUIR     CI1       Analysing Code-Based Retrieval Augmented Generation Methods  ok
@@ -51,7 +51,7 @@
 106  INCLUIR     CI1       RAG and Agentic Assistant: A Combined Approach               ok ()
 107  INCLUIR     CI1       Repository-Level Code Understanding by LLMs via Hierarchical ok https://doi.org/10.1007/978-3-031-97576-9_6 (Repository-Level Code Understanding by LLMs via Hierarchical Summarization: Improving Code Search and Bug Localization)
 -110  EXCLUIR     CI1       Code Reviews on a Budget: Memory-Efficient Fine-Tuning with  no acm https://doi.org/10.1007/978-3-032-14107-1_31 (Code Reviews on a Budget: Memory-Efficient Fine-Tuning with QLoRA and RAG for Big Code Applications)
-112  DÚVIDA      CI1?/CE2? Lighter And Better: Towards Flexible Context Adaptation For  ok (Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation)
+-112  EXCLUIR      CI1?/CE2? Lighter And Better: Towards Flexible Context Adaptation For  ok (Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation)
 113  INCLUIR     CI1       SchemaRAG: A Schema-aware Retrieval-Augmented Generation Fra ok
 114  INCLUIR     CI1       When to Trust: A Causality-Aware Calibration Framework for A ok
 116  INCLUIR     CI1       Retrieval Augmented Generation Fine-Tuned LLM Model for Code ok
