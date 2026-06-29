@@ -1,3 +1,6 @@
+# V8.1 - 28/06/26
+- Atualizada seção "7. PRISMA".
+
 # V8.0 - 17/06/26
 - Adicionado "CE8 - Texto completo do artigo inacessível após busca nas bases institucionais (CAPES/UFG), Google Scholar e ResearchGate."
 - Removidos artigos por CE8:
