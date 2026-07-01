@@ -38,14 +38,10 @@ almeida_alex@discente.ufg.br
 
 ```
 .
-├── article/                  # Scientific article artifacts
-│   ├── drafts/               # Working draft and revision history
-│   │   ├── draft.docx        # Current working draft
-│   │   ├── CHANGELOG.md      # Draft revision log
-│   │   └── reviews/          # Annotated versions received from reviewers
-│   ├── figures/              # Figures used in the article
-│   ├── tables/               # Tables used in the article
-│   └── final/                # Final submitted version(s)
+├── article/                  # Scientific article
+    ├── article.docx          # Article (versioned via Git)
+│   ├── article.pdf           # PDF export of the current article version
+│   ├── CHANGELOG.md          # Article decision log
 │
 ├── research_protocol/        # Research protocol and methodological references
 │   ├── protocol.docx         # Research protocol (versioned via Git)
