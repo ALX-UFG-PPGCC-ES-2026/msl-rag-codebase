@@ -1,3 +1,6 @@
+# V8.3 - 01/07/26
+- Atualizados números do PRISMA.
+
 # V8.2 - 30/06/26
 - Correção ortográfica.
 
