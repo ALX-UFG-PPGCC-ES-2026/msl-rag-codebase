@@ -2,7 +2,7 @@
 
 *Retrieval-Augmented Generation Applied to Software Codebases: A Systematic Mapping Study*
 
-**VERSÃO FINAL — após Lote 10 (último) | 32 artigos incluídos (de 57 processados) | ESTUDO CONCLUÍDO**
+**VERSÃO FINAL — após Lote 10 (último) | 33 artigos incluídos (de 57 processados) | ESTUDO CONCLUÍDO**
 
 # **S0 — Nota Metodológica: Regras de Elegibilidade e Casos Limítrofes (Versão Final)**
 
@@ -16,7 +16,7 @@ CE6: Preprint arXiv sem venue com revisão por pares formal — EXCLUIR independ
 
 Casos de referência de exclusão (completo): A11, A12, A15, A18, A19, A21, A25, A26, A29, A31, A33, A34, A38, A39, A42, A45, A46, A48, A51, A52, A56.
 
-# **S1 — Perfil dos Estudos Incluídos (32 artigos) — FINAL**
+# **S1 — Perfil dos Estudos Incluídos (33 artigos) — FINAL**
 
 Propósito: caracterização do corpus — tarefas-alvo, linguagens e tipos de sistema (subsidia seção de Resultados e responde parcialmente RQ3).
 
@@ -56,7 +56,7 @@ Propósito: caracterização do corpus — tarefas-alvo, linguagens e tipos de s
 | A55 | Liao et al. (2026) | IEEE IoT Journal 2026 | Detecção de vulnerabilidades em código-fonte (IoT/sistema) | C e C++ | Linux kernel patches, Qemu patches, Big-Vul/MSR (188.636 funções) |
 | A57 | Wang et al. (2025) | ASE 2025, IEEE/ACM | Code wiring — substituição contextual de variáveis em código colado (copy-paste-modify) | Java | 100 instâncias reais Stack Overflow → GitHub; 29 projetos OSS distintos (bibliotecas, apps mobile) |
 
-# **S2 — Arquiteturas RAG (RQ1) — FINAL (32 artigos)**
+# **S2 — Arquiteturas RAG (RQ1) — FINAL (33 artigos)**
 
 Propósito: padrões arquiteturais — combinações de chunking, vector store, embedding e retrieval.
 
@@ -96,7 +96,7 @@ Propósito: padrões arquiteturais — combinações de chunking, vector store, 
 | A55 | Function-level slicing (syntax-aware): function signature + body + headers (#include/#define) + leading comments + adjacent function excerpts (intra-file) | Embutido no pipeline de retrieval híbrido | gte-Qwen2 (3.584-dim, sentence-level) | Híbrido: Dense (cosine gte-Qwen2) + Sparse (BM25), fusion α=0.5, top-K=3 | VulKnow: KB estruturada (3.483 entradas: title, usage, cause, fix, keywords, reference). LLM-assisted query encoding (summariza triggers de vulnerabilidade). 3 módulos: RAG Module → Initial Filter (confidence ranking, top-N=3) → Multi-stage Reasoning (category-specific prompts) + Unified Verification (dual-threshold τ=0.8). Output JSON estruturado com evidence. |
 | A57 | Nenhum (input é método Java inteiro; contexto local recuperado dinamicamente por tools) | Nenhum (contexto em memória via prompt dinâmico) | Nenhum (recuperação via compilador + AST parser) | Determinístico via compilador (Locator) + AST analysis (Collector); RAG infilling via Completer (LLM call) | WIRL: ReAct framework + state machine (3 estados). Locator: compilador PSI → variáveis não resolvidas. Collector: 8 tools (get_available_variables, get_unused_variables, is_argument, is_receiver, reserve_type_compatible_ones, retrieve_identical_function_call, sort_by_literal_similarity, get_method_names). Completer: LLM call com prompt dinâmico acumulado. Plugin IntelliJ IDEA (Langchain4J). Hybrid execution: deterministic steps + LLM exploration. |
 
-# **S3 — LLMs Empregadas e Métricas de Avaliação (RQ2 e RQ4) — FINAL (32 artigos)**
+# **S3 — LLMs Empregadas e Métricas de Avaliação (RQ2 e RQ4) — FINAL (33 artigos)**
 
 (Lotes 1-9 mantidos em sintese_msl_lote9.docx. Abaixo: novos artigos do Lote 10.)
 
@@ -131,7 +131,7 @@ Propósito: padrões arquiteturais — combinações de chunking, vector store, 
 | A57 | Limitação para composição de código sintético complexo: falha em substituições que requerem cadeia de chamadas de método profundamente aninhadas (Fig. 5) — limitação do LLM 14B e do paradigma agente-ferramenta atual. | Arquitetura RAG |
 | A57 | Dataset CW Evaluation pequeno (100 casos) e restrito a cenários Stack Overflow → GitHub; coleta semi-automática de cenários com ambiguidades semânticas ou mapeamentos many-to-many necessária. | Métricas de avaliação |
 
-# **S4b — Frequência de Lacunas por Categoria (FINAL — 32 artigos)**
+# **S4b — Frequência de Lacunas por Categoria (FINAL — 33 artigos)**
 
 | **Categoria** | **Freq. (FINAL)** | **Artigos** |
 | --- | --- | --- |
