@@ -1,3 +1,6 @@
+# V8.2 - 30/06/26
+- Correção ortográfica.
+
 # V8.1 - 28/06/26
 - Atualizada seção "7. PRISMA".
 
