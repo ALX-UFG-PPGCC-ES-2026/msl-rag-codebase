@@ -1,0 +1,58 @@
+A01 - A Deep Dive into Retrieval-Augmented Generation for Code Completion: Experience on WeChat
+A02 - A Multi-agent Onboarding Assistant based on Large Language
+Models, Retrieval Augmented Generation, and Chain-of-Thought
+A03 - Advanced Planning and Scheduling with Semantic Knowledge Graphs and LLMs
+A04 - AI Assistants to Enhance and Exploit the PETSc Knowledge Base
+A05 - An Empirical Comparison of Code Generation Approaches for Ansible
+A06 - An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems
+A07 - Analysing Code-Based Retrieval Augmented Generation Methods for Knowledge Retention
+A08 - Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements
+A09 - BioRAGent: A Retrieval-Augmented Generation System for Showcasing Generative Query Expansion and Domain-Specific Search for Scientific Q&A
+A10 - Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests
+A11 - Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'
+A12 - Code Summarization Beyond Function Level
+A13 - Collaborative Agent Framework for Web Vulnerability Discovery in Source Code
+A14 - Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy
+A15 - Enhancing Contextual Memory in LLMs for Software Engineering via Ontology-based Inference
+A16 - Enhancing Flutter App Development: Addressing Configuration and Compatibility Bugs Using Large Language Models
+A17 - Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning
+A18 - EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts
+A19 - Establishing Traceability between Natural Language Requirements and Software Artifacts by Combining RAG and LLMs
+A20 - Evaluating Retrieval-Augmented Generation for LLM-Based Vulnerability Detection: An Empirical Study on Real-World Java Vulnerabilities
+A21 - Evaluation of Orca 2 against other LLMs for Retrieval Augmented Generation
+A22 - From Code to Execution: Multi-Agent GraphRAG for Automated Artifact Generation
+A23 - Impact of an LLM-based Review Assistant in Practice: A Mixed Open-/Closed-source Case Study
+A24 - Integrating Retrieval-Augmented Generation for Enhanced Code Reuse: A Comprehensive Framework for Efficient Software Development
+A25 - Large Language Models for Binary Decompilation: Paradigms, Evaluation, and Challenges
+A26 - LaTeX-FC: Automating LaTeX Format Conversion Across Journals via LLMs
+A27 - Leveraging RAG-LLM to Translate C++ to Rust
+A28 - Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning
+A29 - LLM agents for vulnerability identification and verification of CVEs
+A30 - LLM-assisted Bug Identification and Correction for Verilog HDL
+A31 - LLM-assisted Performance Estimation of Embedded Software on RISC-V Processors
+A32 - Local Agentic RAG-Based Information System Development for Intelligent Analysis of GitHub Code Repositories in Computer Science Education
+A33 - Log Pruning for Efficient Q&A in 5G Networks
+A34 - N-CATS: A Neural Network Classification Automatic Taxonomy System
+A35 - On Improving Repository-Level Code QA for Large Language Models
+A36 - RAG and Agentic Assistant: A Combined Approach
+A37 - RAGdeterm: Deterministic retrieval-augmented generation for code generation
+A38 - RAG-Enhanced Semantic Code Retrieval & AI-Enhanced Communication for Developer Efficiency
+A39 - REAL: A Retrieval-Augmented Entity Linking Approach for Biomedical Concept Recognition
+A40 - Repository-Level Code Understanding by LLMs via Hierarchical Summarization: Improving Code Search and Bug Localization
+A41 - Repository-level code completion with adaptive segmentation and fused retrieval
+A42 - Rethinking Code Review Workflows with LLM Assistance: An Empirical Study
+A43 - Retrieval Augmented Generation Fine-Tuned LLM Model for Code Recommendations to Mitigate Lock Contention
+A44 - RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models
+A45 - S3LLM: Large-Scale Scientific Software Understanding with LLMs using Source, Metadata, and Document
+A46 - SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL
+A47 - Secure Retrieval-Augmented Generation Framework for Automated Knowledge Access in Enterprise Git Repositories
+A48 - Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform
+A49 - SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis
+A50 - Source Code Error Categorization and Explanation by Retrieval Augmented Generation
+A51 - Teacher-Guided Code Generation With API Update
+A52 - Tunnel Rapid AI Classification (TRaiC): An Open-Source Code for 360° Tunnel Face Mapping, Discontinuity Analysis, and RAG-LLM-Powered Geo-Engineering Reporting
+A53 - Unleashing the Power of LLM to Infer State Machine from the Protocol Implementation
+A54 - Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla's PDF.js Project
+A55 - VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models
+A56 - When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation
+A57 - Wired for Reuse: Automating Context-Aware Code Adaptation in IDEs via LLM-Based Agent
