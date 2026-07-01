@@ -1,3 +1,6 @@
+# V2.1 - 01/07/26
+- Corrigida numeração das seções.
+
 # V2.0 - 01/07/26
 - Adicionado Apêndice A e referências dos estudos primários.
 
