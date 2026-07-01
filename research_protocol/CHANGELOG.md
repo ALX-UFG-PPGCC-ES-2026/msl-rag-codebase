@@ -66,7 +66,7 @@
     referência aos critérios do protocolo V3 devem ser interpretadas 
     conforme a correspondência acima.
 
-# V4 - 17/05/26
+# V4.0 - 17/05/26
 - Protocolo revisado a pedido do professor:
   - Adicionada seção PICOC com observações sobre Outcome e Contexto não comporem a string de busca.
   - Adicionada justificativa para a escolha de cada base de dados.
@@ -77,14 +77,14 @@
   - Adicionada as seções "INTRODUÇÃO" e "REFERÊNCIAS".
   - Adicionada observação sobre sobreposição de cobertura entre as bases na seção de Bases.
 
-# V3 - 26/04/26
+# V3.0 - 26/04/26
 - Removida fonte ACM, devido a restrições de acesso às funcionalidades de busca avançada e exportação estruturada na Basic Edition.
 
-# V2 - 26/04/26
+# V2.0 - 26/04/26
 - Versão revisada do protocolo de pesquisa a pedido do professor:
   - Adicionada RQ5.
   - Adicionado rationale para cada RQ.
   - Adicionados critérios de inclusão (CI) e de exclusão (CE).
 
-# V1 - 15/04/26
+# V1.0 - 15/04/26
 - Versão inicial do protocolo de pesquisa.
