@@ -1,3 +1,6 @@
+# V8.4 - 01/07/26
+- Realizada revisão para submissão na disciplina.
+
 # V8.3 - 01/07/26
 - Atualizados números do PRISMA.
 

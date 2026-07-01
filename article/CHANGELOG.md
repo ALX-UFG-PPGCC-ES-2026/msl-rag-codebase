@@ -1,3 +1,6 @@
+# V2.3 - 01/07/26
+- Realizada revisão para submissão na disciplina.
+
 # V2.2 - 01/07/26
 - Definida CAIXA ALTA para os títulos das seções.
 
