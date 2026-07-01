@@ -1,3 +1,6 @@
+# V2.2 - 01/07/26
+- Definida CAIXA ALTA para os títulos das seções.
+
 # V2.1 - 01/07/26
 - Corrigida numeração das seções.
 
