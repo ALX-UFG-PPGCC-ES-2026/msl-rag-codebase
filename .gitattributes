@@ -191,4 +191,3 @@ README.md            export-ignore
 # -----------------------------------------------------------------------------------------
 # } Common.gitattributes
 # -----------------------------------------------------------------------------------------
-datasets/MoviLens/ml-latest.zip filter=lfs diff=lfs merge=lfs -text
